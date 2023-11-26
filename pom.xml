@@ -80,6 +80,11 @@
 			         <groupId>org.pitest</groupId>
 			         <artifactId>pitest-junit5-plugin</artifactId>
 			         <version>1.2.1</version>
+      <dependency>
+        <groupId>com.groupcdg.arcmutate</groupId>
+        <artifactId>arcmutate-spring</artifactId>
+        <version>0.0.10</version>
+      </dependency>
 			      </dependency>
 			   </dependencies>
 			   <configuration>
